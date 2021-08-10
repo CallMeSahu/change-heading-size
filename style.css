@@ -17,10 +17,26 @@ input{
 button{
   padding: 0.5rem 1rem;
   margin: 1rem auto;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  border: 1px solid;
+  cursor: pointer;
 }
 
 .output{
   padding: 0.75rem;
+}
+
+#h1{
+  background-color: whitesmoke;
+}
+
+#h2{
+  background-color: whitesmoke;
+}
+
+#h3{
+  background-color: whitesmoke;
 }
 
 #H1{
